@@ -1,0 +1,8 @@
+job-dsl 
+git 
+authorize-project
+matrix-auth
+github-branch-source 
+pipeline-utility-steps 
+credentials-binding 
+configuration-as-code
