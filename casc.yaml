@@ -1,3 +1,5 @@
+# Jenkins: CASC container configuration
+
 jenkins:
   securityRealm:
     local:
