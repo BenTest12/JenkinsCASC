@@ -1,3 +1,6 @@
+# Jenkins: CASC docker compose configuration.
+# Make sure a secrets.env file is created before running this configuration.
+
 services:
   jenkins:
     image: jenkins:jcasc
