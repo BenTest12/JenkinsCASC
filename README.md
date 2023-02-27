@@ -148,7 +148,7 @@ jenkins:
   authorizationStrategy:
     globalMatrix:
       permissions:
-        - "Overall/Administer:admin"
+        - "Overall/Administer:${JENKINS_ADMIN_ID}"
         - "Overall/Read:authenticated"
   remotingSecurity:
     enabled: true
