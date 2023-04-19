@@ -28,7 +28,6 @@ ws-cleanup
 ant
 workflow-support
 workflow-durable-task-step
-workflow-cps-global-lib
 workflow-cps
 display-url-api
 mailer
@@ -40,8 +39,8 @@ jackson2-api
 pipeline-input-step
 pipeline-stage-step
 workflow-api
-workflow-cps-global-lib
 pipeline-graph-analysis
+pipeline-groovy-lib
 pipeline-rest-api
 pipeline-stage-view
 pipeline-build-step
@@ -50,7 +49,6 @@ pipeline-model-extensions
 jsch
 git-client
 git-server
-workflow-cps-global-lib
 branch-api
 workflow-multibranch
 pipeline-stage-tags-metadata
